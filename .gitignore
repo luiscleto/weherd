@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.log
+*.pid
+# Local review evidence includes live terminal metadata and machine-bound scripts.
+/artifacts/
